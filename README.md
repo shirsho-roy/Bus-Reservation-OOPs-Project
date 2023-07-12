@@ -28,23 +28,23 @@ Password : `pass`
 ## Screenshots
 
 ### Welcome Screen
-![Alt text](image.png)
+![Alt text](screenshot/image.png)
 ### Main Menu
 
-![Alt text](image-1.png)
+![Alt text](screenshots/image-1.png)
 
 ### User Menu
 
-![Alt text](image-2.png)
+![Alt text](screenshots/image-2.png)
 
 ### Book Ticket
 
-![Alt text](image-3.png)
+![Alt text](screenshots/image-3.png)
 
 ### Admin Menu
 
-![Alt text](image-4.png)
+![Alt text](screenshots/image-4.png)
 ### Bus List
 
-![Alt text](image-5.png)
+![Alt text](screenshots/image-5.png)
 
