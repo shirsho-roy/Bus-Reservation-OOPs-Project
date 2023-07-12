@@ -28,7 +28,7 @@ Password : `pass`
 ## Screenshots
 
 ### Welcome Screen
-![Alt text](screenshot/image.png)
+![Alt text](screenshots/image.png)
 ### Main Menu
 
 ![Alt text](screenshots/image-1.png)
